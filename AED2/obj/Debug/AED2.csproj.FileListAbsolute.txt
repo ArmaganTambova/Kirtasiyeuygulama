@@ -5,3 +5,10 @@ C:\Users\Admin\source\repos\AED2\AED2\obj\Debug\AED2.csproj.AssemblyReference.ca
 C:\Users\Admin\source\repos\AED2\AED2\obj\Debug\AED2.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\AED2\AED2\obj\Debug\AED2.exe
 C:\Users\Admin\source\repos\AED2\AED2\obj\Debug\AED2.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\Kirtasiyeuygulama\AED2\bin\Debug\AED2.exe.config
+C:\Users\armif\OneDrive\Belgeler\GitHub\Kirtasiyeuygulama\AED2\bin\Debug\AED2.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\Kirtasiyeuygulama\AED2\bin\Debug\AED2.pdb
+C:\Users\armif\OneDrive\Belgeler\GitHub\Kirtasiyeuygulama\AED2\obj\Debug\AED2.csproj.AssemblyReference.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\Kirtasiyeuygulama\AED2\obj\Debug\AED2.csproj.CoreCompileInputs.cache
+C:\Users\armif\OneDrive\Belgeler\GitHub\Kirtasiyeuygulama\AED2\obj\Debug\AED2.exe
+C:\Users\armif\OneDrive\Belgeler\GitHub\Kirtasiyeuygulama\AED2\obj\Debug\AED2.pdb
